@@ -1,0 +1,134 @@
+/* sqp */
+body.estilo-programa-sqp .modal-content {
+    background-color: #0fab9d;
+}
+
+body.estilo-programa-sqp .modal-content h2, body.estilo-via-2016 .modal-content h3{
+    color: #fff;
+}
+
+
+body.estilo-programa-sqp .respuesta {
+    color: #0fab9d;
+    
+}
+
+
+
+body.estilo-programa-sqp .respuesta .letra {
+    color: #0fab9d;
+}
+
+
+body.estilo-programa-sqp .name-program-title{
+	font-size: 7rem;
+	color: #FFF;
+}
+
+
+
+
+body.estilo-programa-sqp .link-white{
+    color: #fff;
+}
+
+
+body.estilo-programa-sqp .logo2{
+    color: #fff;
+    position: absolute;
+    top: -58px;
+}
+
+
+body.estilo-programa-sqp .titlemy{
+    color: #0fab9d;
+}
+
+body.estilo-programa-sqp .respuesta .porcentaje {
+   color: #0fab9d;
+}
+
+body.estilo-programa-sqp .respuesta .txt {
+   color: #0fab9d;
+}
+
+
+
+body.estilo-via-2016 .header-espera .img{
+    background-image: url('../images/logo.png');
+    margin-top: 50px;
+}
+
+
+
+body.estilo-via-2016 .modal-body .logo .image{
+    background-image: url('../images/logo_round.png');
+    width: 121px;
+    height: 68px;
+    margin: 0 auto;
+    margin-top: -18px;
+}
+
+
+/* Fondo de Ventanas Grande */
+body.estilo-programa-sqp .header-espera{
+    background-image: url('../images/background_sqp.jpg');
+}
+
+
+
+body.estilo-programa-sqp  .r-correcta{
+    background-color: #147169;
+}
+
+body.estilo-programa-sqp  .r-correcta .txt{
+   color: #fff;
+}
+
+body.estilo-programa-sqp  .r-correcta .porcentaje{
+   color: #fff;
+}
+
+body.estilo-via-2016 #dinamica-trivia-online h6.finalizada 
+ {
+    background-color: #147169;
+}
+
+body.estilo-via-2016 h2.pregunta {
+    color: #fff;
+}
+
+body.tv-fondo {
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url("../images/body_bg1.jpg");
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+body.estilo-via-2016 h2.atencion {
+    color: #fff;
+    }
+
+
+body.estilo-via-2016 #dinamica-trivia-online h6.cerrada {
+    background-color: #147169;
+}
+
+
+body.estilo-via-2016 .btn-primary, body.estilo-via-2016 .btn-primary[disabled] {
+    background-color: #147169;
+    border-bottom-color: #147169;
+    border-left-color: #147169;
+    border-right-color: #147169;
+    border-top-color: #147169;
+    color: #fff;
+    opacity: 1;
+}
+
+
+
